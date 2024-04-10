@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ACZ11BR1E-15KQA1-12C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-21-14:43:12)
+    (mountForm default
+        (footprintRef "ACZ11BR1E15KQA112C")
+        (spec "System")
+    )
+)

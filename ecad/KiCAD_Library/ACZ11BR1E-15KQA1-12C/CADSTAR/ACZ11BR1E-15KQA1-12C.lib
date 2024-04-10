@@ -1,0 +1,17 @@
+.ACZ11BR1E-15KQA1-12C :1 ;Encoders INCR ENC, S, MECH, 12 PPR 12 DET, 5 Vdc, A/B, 2-bit, SW, 5 mm tbush 15 x 6 mm KQ shaft, horizontal
+ACZ11BR1E15KQA112C
+*STM VR
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=S1 5=S2 6=MH1 7=MH2
+*PLB 1="A1" 2="B1" 3="C1" 4="S1" 5="S2" 6="MH1" 7="MH2"
+*MXP 7
+*DFN ACZ11BR1E-15KQA1-12C
+~!Mouser Part Number (490-ACZ1115KQA112C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/ACZ11BR1E-15KQA1-12C?qs=WyjlAZoYn501aYQzKwgM%2Fw%3D%3D)
+~!Manufacturer_Name (CUI Devices)
+~!Manufacturer_Part_Number (ACZ11BR1E-15KQA1-12C)
+~!Link Datasheet (-)
+~!Height (13.75mm)
+~!3D_Model (ACZ11BR1E-15KQA1-12C)
+ACZ11BR1E-15KQA1-12C
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

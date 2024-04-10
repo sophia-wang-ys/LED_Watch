@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ACZ11BR1E15KQA112C"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ACZ11BR1E15KQA112C")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACZ11BR1E-15KQA1-12C
+D Encoders INCR ENC, S, MECH, 12 PPR 12 DET, 5 Vdc, A/B, 2-bit, SW, 5 mm tbush 15 x 6 mm KQ shaft, horizontal
+K
+F 
+$ENDCMP
+#
+#End Doc Library

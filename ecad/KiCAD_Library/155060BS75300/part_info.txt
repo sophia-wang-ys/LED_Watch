@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=155060BS75300
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2021-06-21 08:54:29
+Downloaded=2023-12-09 21:59:05
+3D=Y

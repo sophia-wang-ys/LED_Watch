@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "PIC16F15313T-ISN")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Library/PIC16F15313T-ISN/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "IS31FL3235A-QFLS2-TR")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Library/IS31FL3235A-QFLS2-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "155060BS75300")(type "Legacy")(uri "${KIPRJMOD}/KiCAD_Library/155060BS75300/KiCad/155060BS75300.mod")(options "")(descr ""))
+  (lib (name "ACZ11BR1E-15KQA1-12C")(type "Legacy")(uri "${KIPRJMOD}/KiCAD_Library/ACZ11BR1E-15KQA1-12C/KiCad/ACZ11BR1E-15KQA1-12C.mod")(options "")(descr ""))
+)

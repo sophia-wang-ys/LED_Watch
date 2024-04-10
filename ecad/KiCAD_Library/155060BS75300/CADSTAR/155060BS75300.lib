@@ -1,0 +1,16 @@
+.155060BS75300 :1 ;Standard LEDs - SMD WL-SMSW Wtrclr SdVw Blue 3.2V 20mA 465nm
+"155060BS75300"
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 155060BS75300
+~!Mouser Part Number (710-155060BS75300)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/155060BS75300?qs=GedFDFLaBXFE8klTFAyuFA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (155060BS75300)
+~!Link Datasheet (https://www.mouser.fr/datasheet/2/445/155060BS75300-1838907.pdf)
+~!Height (1mm)
+~!3D_Model (155060BS75300)
+"155060BS75300"
+1.1!U 2.1!U 
